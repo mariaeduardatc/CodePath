@@ -1,2 +1,2 @@
 # CodePath
-CodePath Exercises and documentation
+CodePath Exercises from HackerHank and documentation
